@@ -1,8 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+![Demo App](https://github.com/Gauravpatil07/Chat-App-with-MERN-Stack/blob/a547fe502a917a9b6220df8ba7d77cd6aee95aef/Screenshot.png)
 
 Highlights:
 
